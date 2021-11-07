@@ -140,7 +140,7 @@
 								<div class="footer-column col-md-4 col-sm-6 col-xs-12">
 									<div class="footer-widget logo-widget">
 										<div class="logo">
-											<a href="index.html"><img src="{{asset('tem_files/images/footer-logo.png')}}" alt=""></a>
+											<a href="/"><img src="{{asset('tem_files/images/footer-logo.png')}}" alt=""></a>
 										</div>
 										{{-- <div class="widget-content">
 											<div class="text">Alphato Construction & Property Development is a property construction and
