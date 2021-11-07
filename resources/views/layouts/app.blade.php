@@ -4,21 +4,21 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="shortcut icon" href="{{asset('tem_files/images/logo.png')}}">
-	<link rel="icon" href="{{asset('tem_files/images/logo.png')}}">
+	<link rel="shortcut icon" href="/tem_files/images/logo.png">
+	<link rel="icon" href="/tem_files/images/logo.png">
 
 	<!--Stylesheets-->
-	<link rel="stylesheet" href="{{ asset('tem_files/css/bootstrap.css')}}">
-	<link rel="stylesheet" href="{{ asset('tem_files/plugins/revolution/css/settings.css')}}">
-	<link rel="stylesheet" href="{{ asset('tem_files/plugins/revolution/css/layers.css')}}">
-	<link rel="stylesheet" href="{{ asset('tem_files/plugins/revolution/css/navigation.css')}}">
-	<link rel="stylesheet" href="{{ asset('tem_files/css/style.css')}}">
-	<link rel="stylesheet" href="{{ asset('tem_files/css/responsive.css')}}">
-	<link rel="stylesheet" href="{{ asset('tem_files/css/owl.css')}}">
-	<link rel="stylesheet" href="{{ asset('tem_files/css/owl.default.css')}}">
+	<link rel="stylesheet" href="/tem_files/css/bootstrap.css">
+	<link rel="stylesheet" href="/tem_files/plugins/revolution/css/settings.css">
+	<link rel="stylesheet" href="/tem_files/plugins/revolution/css/layers.css">
+	<link rel="stylesheet" href="/tem_files/plugins/revolution/css/navigation.css'">
+	<link rel="stylesheet" href="/tem_files/css/style.css">
+	<link rel="stylesheet" href="/tem_files/css/responsive.css">
+	<link rel="stylesheet" href="/tem_files/css/owl.css">
+	<link rel="stylesheet" href="/tem_files/css/owl.default.css">
 
 	<!--Color Themes-->
-	<link rel="stylesheet" href="{{ asset('tem_files/css/default-theme.css')}}">
+	<link rel="stylesheet" href="/tem_files/css/default-theme.css">
 </head>
 <body>
 	<div class="page-wrapper">
@@ -57,7 +57,7 @@
 			<div class="header-upper">
 				<div class="auto-container clearfix">
 					<div class="pull-left logo-outer">
-						<div class="logo"><a href="/"><img src="{{asset('tem_files/images/logo.png')}}" alt="Aizen - Architecture Template" title="Aizen - Architecture Template"></a></div>
+						<div class="logo"><a href="/"><img src="tem_files/images/logo.png" alt="Aizen - Architecture Template" title="Aizen - Architecture Template"></a></div>
 					</div>
 					<div class="pull-right upper-right clearfix">
 						<nav class="main-menu">
@@ -90,7 +90,7 @@
 				<div class="auto-container clearfix">
 					<!--Logo-->
 					<div class="logo pull-left">
-						<a href="/" class="img-responsive"><img src="{{asset('tem_files/images/logo-small.png')}}" alt="Aizen - Architecture Template" title="Aizen - Architecture Template"></a>
+						<a href="/" class="img-responsive"><img src="/tem_files/images/logo-small.png" alt="Aizen - Architecture Template" title="Aizen - Architecture Template"></a>
 					</div>
 					<!--Right Col-->
 					<div class="right-col pull-right">
@@ -140,7 +140,7 @@
 								<div class="footer-column col-md-4 col-sm-6 col-xs-12">
 									<div class="footer-widget logo-widget">
 										<div class="logo">
-											<a href="/"><img src="{{asset('tem_files/images/footer-logo.png')}}" alt=""></a>
+											<a href="/"><img src="/tem_files/images/footer-logo.png" alt=""></a>
 										</div>
 										{{-- <div class="widget-content">
 											<div class="text">Alphato Construction & Property Development is a property construction and
@@ -218,29 +218,29 @@
 	<!--Scroll to top-->
 	<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div>
 
-	<script src="{{asset('tem_files/js/jquery.js')}}"></script>
+	<script src="/tem_files/js/jquery.js"></script>
 	<!--Revolution Slider-->
-	<script src="{{ asset('tem_files/plugins/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
+	<script src="/tem_files/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
 	<script src="plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.actions.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.carousel.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.migration.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.navigation.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.parallax.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js')}}"></script>
-	<script src="{{ asset('tem_files/plugins/revolution/js/extensions/revolution.extension.video.min.js')}}"></script>
-	<script src="{{ asset('tem_files/js/main-slider-script.js')}}"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+	<script src="/tem_files/plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
+	<script src="/tem_files/js/main-slider-script.js"></script>
 
-	<script src="{{asset('tem_files/js/modernizr.min.js')}}"></script>
-	<script src="{{asset('tem_files/js/bootstrap.min.js')}}"></script>
-	<script src="{{ asset('tem_files/js/jquery.fancybox.pack.js')}}"></script>
-	<script src="{{ asset('tem_files/js/jquery.fancybox-media.js')}}"></script>
-	<script src="{{ asset('tem_files/js/owl.js')}}"></script>
-	<script src="{{asset('tem_files/js/mixitup.js')}}"></script>
-	<script src="{{asset('tem_files/js/appear.js')}}"></script>
-	<script src="{{asset('tem_files/js/script.js')}}"></script>
-    <script src="{{asset('tem_files/js/slider.js')}}"></script>
+	<script src="/tem_files/js/modernizr.min.js"></script>
+	<script src="/tem_files/js/bootstrap.min.js"></script>
+	<script src="/tem_files/js/jquery.fancybox.pack.js"></script>
+	<script src="/tem_files/js/jquery.fancybox-media.js"></script>
+	<script src="/tem_files/js/owl.js"></script>
+	<script src="/tem_files/js/mixitup.js"></script>
+	<script src="/tem_files/js/appear.js"></script>
+	<script src="/tem_files/js/script.js"></script>
+    <script src="/tem_files/js/slider.js"></script>
 </body>
 </html>
