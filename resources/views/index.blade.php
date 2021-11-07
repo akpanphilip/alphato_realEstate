@@ -8,7 +8,7 @@
             <h1>We Design Spaces that uplift the people that experience them</h1>
             <p>Interiors are the essentials life, defining our existence</p>
         </div>
-        <img src="tem_files/images/main-slider/real-estate1.jpg" style="width: 100%; height: 100%;">
+        <img src="/tem_files/images/main-slider/real-estate1.jpg" style="width: 100%; height: 100%;">
     </div>
 
     <div class="myslide fade">
@@ -16,7 +16,7 @@
             <h1>We Create Structures that inspire</h1>
             <p>Together we ensure that each building fulfill their needs as unique manifestation of brand, mission and values</p>
         </div>
-        <img src="{{asset('tem_files/images/main-slider/real-estate2.jpg')}}" style="width: 100%; height: 100%;">
+        <img src="/tem_files/images/main-slider/real-estate2.jpg" style="width: 100%; height: 100%;">
     </div>
     <!-- /fade css -->
 
@@ -72,7 +72,7 @@
             </div>
             <div class="projects-carousel owl-carousel owl-theme">
                 <div class="item">
-                    <div><img src="{{ asset('tem_files/images/resource/project-1.jpg') }}" alt=""></div>
+                    <div><img src="/tem_files/images/resource/project-1.jpg" alt=""></div>
                     <div class="info">
                         <h3><a href="project-single.html">Aqua Residence</a></h3>
                         <h4><a href="project-single.html">Architecture</a></h4>
@@ -80,7 +80,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div><img src="{{ asset('tem_files/images/resource/project-2.jpg') }}" alt=""></div>
+                    <div><img src="/tem_files/images/resource/project-2.jpg" alt=""></div>
                     <div class="info">
                         <h3><a href="project-single.html">Box Perspective</a></h3>
                         <h4><a href="project-single.html">Engineering</a></h4>
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div><img src="{{ asset('tem_files/images/resource/project-3.jpg') }}" alt=""></div>
+                    <div><img src="/tem_files/images/resource/project-3.jpg" alt=""></div>
                     <div class="info">
                         <h3><a href="project-single.html">Bricks High</a></h3>
                         <h4><a href="project-single.html">Consulting</a></h4>
@@ -96,7 +96,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div><img src="{{ asset('tem_files/images/resource/project-4.jpg') }}" alt=""></div>
+                    <div><img src="/tem_files/images/resource/project-4.jpg" alt=""></div>
                     <div class="info">
                         <h3><a href="project-single.html">Rustic Nature</a></h3>
                         <h4><a href="project-single.html">Interior</a></h4>
@@ -104,7 +104,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div><img src="{{ asset('tem_files/images/resource/project-5.jpg') }}" alt=""></div>
+                    <div><img src="/tem_files/images/resource/project-5.jpg" alt=""></div>
                     <div class="info">
                         <h3><a href="project-single.html">Pool Party</a></h3>
                         <h4><a href="project-single.html">Construction</a></h4>
@@ -112,7 +112,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div><img src="{{ asset('tem_files/images/resource/project-6.jpg') }}" alt=""></div>
+                    <div><img src="/tem_files/images/resource/project-6.jpg" alt=""></div>
                     <div class="info">
                         <h3><a href="project-single.html">Bar Concept</a></h3>
                         <h4><a href="project-single.html">Interior</a></h4>
@@ -307,23 +307,23 @@
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item">
                         <figure class="image-box"><a href="#"><img
-                                    src="{{ asset('tem_files/images/clients/1.jpg') }}" alt=""></a></figure>
+                                    src="/tem_files/images/clients/1.jpg" alt=""></a></figure>
                     </li>
                     <li class="slide-item">
                         <figure class="image-box"><a href="#"><img
-                                    src="{{ asset('tem_files/images/clients/2.jpg') }}" alt=""></a></figure>
+                                    src="/tem_files/images/clients/2.jpg" alt=""></a></figure>
                     </li>
                     <li class="slide-item">
                         <figure class="image-box"><a href="#"><img
-                                    src="{{ asset('tem_files/images/clients/3.jpg') }}" alt=""></a></figure>
+                                    src="/tem_files/images/clients/3.jpg" alt=""></a></figure>
                     </li>
                     <li class="slide-item">
                         <figure class="image-box"><a href="#"><img
-                                    src="{{ asset('tem_files/images/clients/4.jpg') }}" alt=""></a></figure>
+                                    src="/tem_files/images/clients/4.jpg" alt=""></a></figure>
                     </li>
                     <li class="slide-item">
                         <figure class="image-box"><a href="#"><img
-                                    src="{{ asset('tem_files/images/clients/5.jpg') }}" alt=""></a></figure>
+                                    src="/tem_files/images/clients/5.jpg" alt=""></a></figure>
                     </li>
                 </ul>
 
